@@ -1,0 +1,12 @@
+.banner-1.background-image{
+  transform: rotateX(180deg);
+}
+
+.banner-1{
+  background-size: cover;
+  background-position: 75% 30%;
+  padding: 200px 0;
+  height: 240px;
+  display: flex;
+  align-items: center;
+}

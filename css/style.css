@@ -1,0 +1,53 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+
+@import url(components/banner.css);
+@import url(components/container.css);
+@import url(components/button.css);
+@import url(components/card.css);
+@import url(components/cards.css);
+@import url(components/footer.css);
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: Open Sans;
+  font-size: 22px;
+  color: white;
+}
+
+h1, h4{
+  font-family: "Cormorant Garamond", serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 130px;
+  color: white;
+}
+
+h2{
+  font-family: "Cormorant Garamond", serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 50px;
+  color: black;
+  text-align: center;
+}
+
+h3{
+  font-family: "Cormorant Garamond", serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 30px;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+
+/* Custom design below! */
